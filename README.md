@@ -1,0 +1,1 @@
+Spring gateway poc with same predicate route
